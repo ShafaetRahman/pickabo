@@ -1,4 +1,4 @@
-Pickabo. com-Testing
+Pickabo. Com - Testing
 Modules Tested Pickabo.com - Testing. This repository contains Software Quality Assurance (SQA) testing documentation for the Pickabo e-commerce website. It includes detailed test cases, test execution reports, bug reports, mind maps, and screenshots. The project demonstrates practical experience in manual testing, test case design, defect identification, and QA documentation. It highlights the application of testing concepts such as requirement analysis, functional testing, and bug reporting in a real-world e-commerce platform.
 ________________________________________
 Modules Tested
@@ -32,10 +32,18 @@ Test Case Summary.xlxs
 Test Case Scenario 
 Pickabo.com - Test Scenario.xlxs
 ________________________________________
-Tools Used • Microsoft Excel • Manual Testing Techniques • Mind Mapping Tool • Browser Developer Tools • Screenshot Documentation
+Tools Used 
+	Microsoft Excel
+	Manual Testing Techniques
+	Mind Mapping Tool
+	Browser Developer Tools
+	Screenshot Documentation
 
-________________________________________
+
 Author
-Shafaeat Rahman Tushar, Computer Science & Engineering Graduate, Interested in Software Quality Assurance.
 ________________________________________
-Purpose: This project was created for learning and portfolio purposes to demonstrate practical experience in software testing and QA documentation.
+Shafaeat Rahman Tushar, Computer Science & Engineering Graduate, Interested in Software Quality Assurance.
+
+Purpose
+________________________________________
+This project was created for learning and portfolio purposes to demonstrate practical experience in software testing and QA documentation.
