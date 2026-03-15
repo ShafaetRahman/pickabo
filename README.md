@@ -1,5 +1,5 @@
 Pickabo. com-Testing
-Modules Tested BagDoom-Testing. This repository contains Software Quality Assurance (SQA) testing documentation for the Pickabo e-commerce website. It includes detailed test cases, test execution reports, bug reports, mind maps, and screenshots. The project demonstrates practical experience in manual testing, test case design, defect identification, and QA documentation. It highlights the application of testing concepts such as requirement analysis, functional testing, and bug reporting in a real-world e-commerce platform.
+Modules Tested Pickabo.com - Testing. This repository contains Software Quality Assurance (SQA) testing documentation for the Pickabo e-commerce website. It includes detailed test cases, test execution reports, bug reports, mind maps, and screenshots. The project demonstrates practical experience in manual testing, test case design, defect identification, and QA documentation. It highlights the application of testing concepts such as requirement analysis, functional testing, and bug reporting in a real-world e-commerce platform.
 ________________________________________
 Modules Tested
 	Browser 
